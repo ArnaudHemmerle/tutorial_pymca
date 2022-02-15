@@ -1,0 +1,9 @@
+
+[PyMcaBatch]
+filelist = C:/Users/Arnaud/Desktop/PyMca/XRF_data/172/SIRIUS_Fluo_2021_07_10_0172.nxs
+
+[PyMcaBatch.selection]
+entry = /scan
+x = 
+y = /scan_data/data_12
+m = 

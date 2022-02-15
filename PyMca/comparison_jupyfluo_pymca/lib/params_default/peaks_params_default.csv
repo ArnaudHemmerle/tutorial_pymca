@@ -1,0 +1,3 @@
+#Peak name;#Transition name;#Position (eV);#Strength;#Fit position?;#Fit peak?;#Beam energy (eV);#Min strength;#Gain;#eV0
+Elastic;El;9700;1.;no;yes;12000.0;0.01;9.89;0.0
+Compton;Co;8500;1.;no;yes;12000.0;0.01;9.89;0.0

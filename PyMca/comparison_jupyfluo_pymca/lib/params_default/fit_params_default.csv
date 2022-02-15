@@ -1,0 +1,2 @@
+#list_isfit_str;#gain;#eV0;#sl;#ct;#noise;#SF0;#TF0;#TW0;#broad_factor;#lowTF0;#highTF0;#lowTW0;#highTW0;#is_bckg_subset;#bckg_eVs_inf;#bckg_eVs_sup
+;9.89;0.0;0.0;0.0;0.1;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;False;0.0;0.0
